@@ -1,0 +1,13 @@
+=== EXERCICE 1 ===
+Bienvenue dans Linux !
+Afficher la date avec la commande date
+Sat Feb  7 13:54:02 UTC 2026
+Calendrier avec la commande cal
+   February 2026      
+Su Mo Tu We Th Fr Sa  
+ 1  2  3  4  5  6  7  
+ 8  9 10 11 12 13 14  
+15 16 17 18 19 20 21  
+22 23 24 25 26 27 28  
+                      
+                      
