@@ -1,0 +1,50 @@
+=== EXERCICE 5 : Résumé du Module 1 ===
+
+Nom: [ÉCRIVEZ VOTRE NOM ICI]
+Date: Sat Feb  7 13:59:23 UTC 2026
+
+=== Commandes apprises ===
+- pwd : afficher le répertoire courant
+- ls : lister les fichiers
+- cd : changer de répertoire
+- clear : effacer l'écran
+- touch : créer un fichier vide
+- echo : afficher du texte
+- cat : afficher le contenu d'un fichier
+- cp : copier un fichier
+- mv : déplacer ou renommer un fichier
+- rm : supprimer un fichier
+- mkdir : créer un dossier
+- man : afficher le manuel d'une commande
+
+=== Mon historique de commandes ===
+   67  ls -la mon_dossier/ >> ex04.txt
+   68  cat ex04.txt
+   69  git status
+   70  git add .
+   71  git status
+   72  git commit -m "Exercice 4 : Manipulation de Fichiers"
+   73  git push
+   74  history
+   75  touch ex05.txt
+   76  echo "=== EXERCICE 5 : Résumé du Module 1 ===" >> ex05.txt
+   77  echo "" >> ex05.txt
+   78  echo "Nom: [ÉCRIVEZ VOTRE NOM ICI]" >> ex05.txt
+   79  echo "Date: $(date)" >> ex05.txt
+   80  echo "" >> ex05.txt
+   81  echo "=== Commandes apprises ===" >> ex05.txt
+   82  echo "- pwd : afficher le répertoire courant" >> ex05.txt
+   83  echo "- ls : lister les fichiers" >> ex05.txt
+   84  echo "- cd : changer de répertoire" >> ex05.txt
+   85  echo "- clear : effacer l'écran" >> ex05.txt
+   86  echo "- touch : créer un fichier vide" >> ex05.txt
+   87  echo "- echo : afficher du texte" >> ex05.txt
+   88  echo "- cat : afficher le contenu d'un fichier" >> ex05.txt
+   89  echo "- cp : copier un fichier" >> ex05.txt
+   90  echo "- mv : déplacer ou renommer un fichier" >> ex05.txt
+   91  echo "- rm : supprimer un fichier" >> ex05.txt
+   92  echo "- mkdir : créer un dossier" >> ex05.txt
+   93  echo "- man : afficher le manuel d'une commande" >> ex05.txt
+   94  echo "" >> ex05.txt
+   95  echo "=== Mon historique de commandes ===" >> ex05.txt
+   96  history | tail -30 >> ex05.txt
