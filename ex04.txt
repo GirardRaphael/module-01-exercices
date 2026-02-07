@@ -1,0 +1,21 @@
+=== EXERCICE 4 : Manipulation de Fichiers ===
+
+=== Liste des fichiers ===
+total 48
+-rw-r--r--  1 codespace codespace 13067 Feb  7 13:57 (--help) ===" >> ex03.txt
+drwxrwxrwx+ 4 codespace root       4096 Feb  7 13:58 .
+drwxr-xrwx+ 5 codespace root       4096 Feb  7 13:51 ..
+drwxrwxrwx+ 8 codespace root       4096 Feb  7 13:57 .git
+-rw-rw-rw-  1 codespace root         37 Feb  7 13:51 README.md
+-rw-rw-rw-  1 codespace codespace   326 Feb  7 13:54 ex01.txt
+-rw-rw-rw-  1 codespace codespace   723 Feb  7 13:56 ex02.txt
+-rw-rw-rw-  1 codespace codespace    74 Feb  7 13:58 ex04.txt
+-rw-rw-rw-  1 codespace codespace     0 Feb  7 13:57 fichier1.txt
+-rw-rw-rw-  1 codespace codespace     0 Feb  7 13:57 fichier_renomme.txt
+drwxrwxrwx+ 2 codespace codespace  4096 Feb  7 13:58 mon_dossier
+
+=== Contenu de mon_dossier ===
+total 8
+drwxrwxrwx+ 2 codespace codespace 4096 Feb  7 13:58 .
+drwxrwxrwx+ 4 codespace root      4096 Feb  7 13:58 ..
+-rw-rw-rw-  1 codespace codespace    0 Feb  7 13:57 fichier3.txt
